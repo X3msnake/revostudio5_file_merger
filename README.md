@@ -4,13 +4,13 @@
 
 ## Installation
 
-- Download and install Python3 (check the boax add to path when prompted)
-- Downlaod the project
+- Download and install Python3 (check the box add to path when prompted)
+- Download the project
 - On windows run RS5pmerge.bat
 
 ## Why
 
-This basic project merger app to allows me to merge multiple RevoStudio5 projects into a single project with multiple scans.
+This basic project merger app allows me to merge multiple RevoStudio5 projects into a single project with multiple scans.
 I found i have this need specially when using mobile captures since at the moment of writing this code the android app always creates a new project instead of a new scan inside a project like in the desktop app.
 
 This would ideally be done natively inside the software but for now it solves this issue.
