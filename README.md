@@ -1,1 +1,2 @@
-# revostudio5_file_merger
+# RevoStudio5 file merger app
+
