@@ -1,1 +1,1 @@
-python revostudio_mergeprj.py
+python revostudio_prj_merge.py
